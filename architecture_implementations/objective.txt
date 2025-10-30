@@ -1,0 +1,1 @@
+The main objective of code files under this folder is to understand the core implementation of complex AI architectures like LSTMs, Transformers, Language Models - Large and Small and tweak them as required.
